@@ -1,4 +1,4 @@
-# Registration and login authentication system
+# Authentication system
 
 - PhP - Server Side Scripting
 - MySQL - Automate data retreival for the web application
